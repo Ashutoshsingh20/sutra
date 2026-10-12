@@ -1,5 +1,5 @@
 
-# 🤖 Kalpana - AI-Powered System Assistant
+# 🤖 Sutra - AI-Powered System Assistant
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## 📋 Overview
 
-Kalpana is an advanced AI assistant that combines the power of real-time system monitoring with intelligent voice interaction and automation. Inspired by J.A.R.V.I.S., Kalpana provides a beautiful HUD interface to monitor your system vitals while offering voice-controlled assistance for various tasks.
+Sutra is an advanced AI assistant that combines the power of real-time system monitoring with intelligent voice interaction and automation. Inspired by J.A.R.V.I.S., Sutra provides a beautiful HUD interface to monitor your system vitals while offering voice-controlled assistance for various tasks.
 
 ### ✨ Key Highlights
 
@@ -71,8 +71,8 @@ Kalpana is an advanced AI assistant that combines the power of real-time system 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Ashutoshsingh20/kalpana.git
-cd kalpana
+git clone https://github.com/Ashutoshsingh20/sutra.git
+cd sutra
 ```
 
 2. **Create a virtual environment** (recommended)
@@ -86,7 +86,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Run Kalpana**
+4. **Run Sutra**
 ```bash
 # Using the startup script
 ./run_kalpana.sh
@@ -119,7 +119,7 @@ python backend/main.py --port 8080
 ### Voice Commands
 
 Activate voice mode and try:
-- "Kalpana, what's my CPU usage?"
+- "Sutra, what's my CPU usage?"
 - "Show memory statistics"
 - "Scan the network"
 - "Open system control panel"
@@ -202,7 +202,7 @@ security:
 
 ## 📊 Dashboard Features
 
-The Kalpana HUD provides:
+The Sutra HUD provides:
 
 1. **System Vitals Panel**: Real-time CPU, memory, and disk usage
 2. **Network Activity**: Live network traffic graphs
@@ -304,14 +304,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or run into issues:
 
-- Open an [Issue](https://github.com/Ashutoshsingh20/kalpana/issues)
-- Start a [Discussion](https://github.com/Ashutoshsingh20/kalpana/discussions)
+- Open an [Issue](https://github.com/Ashutoshsingh20/sutra/issues)
+- Start a [Discussion](https://github.com/Ashutoshsingh20/sutra/discussions)
 - Email: [imashutoshingh15@gmail.com](mailto:imashutoshingh15@gmail.com)
 ---
 
 ## 🌟 Star History
 
-If you find Kalpana useful, please consider giving it a star! ⭐
+If you find Sutra useful, please consider giving it a star! ⭐
 
 ---
 
@@ -319,6 +319,6 @@ If you find Kalpana useful, please consider giving it a star! ⭐
 
 **Made with ❤️ by Ashutosh Singh**
 
-*Kalpana - Your Personal AI Assistant*
+*Sutra - Your Personal AI Assistant*
 
 </div>
